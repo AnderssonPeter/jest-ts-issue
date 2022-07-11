@@ -1,0 +1,27 @@
+{
+  "name": "jest-ts-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnderssonPeter/jest-ts-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnderssonPeter/jest-ts-issue/issues"
+  },
+  "homepage": "https://github.com/AnderssonPeter/jest-ts-issue#readme",
+  "devDependencies": {
+    "@types/proj4": "^2.5.2",
+    "proj4": "^2.8.0",
+    "ol": "^6.14.1",
+    "ts-jest": "^27.1.5",
+    "jest": "^27.5.1",
+    "typescript": "~4.5.2"
+  }
+}
